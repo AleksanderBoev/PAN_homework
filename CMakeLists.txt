@@ -12,3 +12,4 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELEASE ${CMAKE_SOURCE_DIR}/bin)
 
 add_subdirectory(home_work1)
 add_subdirectory(home_work2)
+add_subdirectory(home_work3)
